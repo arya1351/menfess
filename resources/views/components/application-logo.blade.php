@@ -1,0 +1,1 @@
+    <a href="{{ url('/timeline') }}" class="font-bold text-2xl px-2 text-white">MenfessVII</a>
